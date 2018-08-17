@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Flash Light</string>
+    <string name="title_activity_about_us">About</string>
+    <string name="title_activity_about">About</string>
+    <string name="about_version">Version: </string>
+    <string name="about_email_intent">About:FlashLight App</string>
+    <string name="about_not_found_email">Not found email app</string>
+    <string name="about_card1_title">Material Design Demo</string>
+    <string name="about_card1_message">Hey, just a text app for beginners, dont criticize much!</string>
+    <string name="about_card2_title">Will expect a feedback from you.</string>
+    <string name="about_google_play">Rate on Google play</string>
+    <string name="about_email">Feedback by E-mail</string>
+    <string name="about_git_hub">Source code on GitHub</string>
+    <string name="about_address">Beijing, China</string>
+    <string name="about_website">View my website</string>
+    <string name="about_source_licenses">Open source licenses</string>
+    <string name="share_with">Share with</string>
+    <string name="app_designed_by">Designed by Fiszy</string>
+
+
+
+
+</resources>
+
+
+
